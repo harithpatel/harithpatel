@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @harithpatel
 - 👀 I’m interested in computer science, data exploration, innovation, sports, and making a positive impact in the community.
-- 🌱 I’m currently student at UIUC
+- 🌱 I’m currently a student at UIUC
 - 💞️ I’m looking to collaborate on interesting problems in technology
-- 📫 How to reach me harithpatel@gmail.com
+- 📫 How to reach me: harithpatel@gmail.com
 
 
 <!---
